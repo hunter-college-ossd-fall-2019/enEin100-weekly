@@ -17,8 +17,8 @@ Replace the first row below with your contribution.
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Week # | Contribution (Link)                                                          | Type        |    Description           |
+
+| 2      | https://openstreetmap.org/changeset/74404265                                 | OSM Feature | added church             |
+| 3      | https://openstreetmap.org/changeset/74738073                                 | OSM Feature | added bench              |
+| 4      | https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/2    | Blog Edit   | deleted unnecesary lines |
