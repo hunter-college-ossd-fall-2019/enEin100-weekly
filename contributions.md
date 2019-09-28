@@ -20,3 +20,4 @@ Replace the first row below with your contribution.
 |  3   | https://openstreetmap.org/changeset/74738073 | OSM Feature | added bench |
 |  4   | https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/2 | Blog Edit | deleted unnecesary lines |
 |  5   | https://en.wiktionary.org/w/index.php?title=pleat&oldid=54313932 | Wiktionary Edit | added pronunciation to word |
+|  5   | https://github.com/monerobook/monerobook/pull/74 | Pull Request Accepted and Merged | spelling, capitalization, and punctuation fixed |
