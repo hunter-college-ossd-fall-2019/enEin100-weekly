@@ -22,3 +22,6 @@ Replace the first row below with your contribution.
 |  5   | https://en.wiktionary.org/w/index.php?title=pleat&oldid=54313932 | Wiktionary Edit | added pronunciation to word |
 |  5   | https://github.com/monerobook/monerobook/pull/74 | Pull Request Accepted and Merged | spelling, capitalization, and punctuation fixed |
 |  7   | https://openstreetmap.org/changeset/75471058 | OSM Feature | added bench |
+|  7   | https://openstreetmap.org/changeset/75628411 | OSM Feature | added bench |
+|  7   | https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(video_game) | Wikipedia Edit | edited for clearer wording |
+
