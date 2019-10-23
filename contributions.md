@@ -25,3 +25,4 @@ Replace the first row below with your contribution.
 |  7   | https://openstreetmap.org/changeset/75628411 | OSM Feature | added bench |
 |  7   | https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(video_game) | Wikipedia Edit | edited for clearer wording |
 |  7   | https://github.com/hunter-college-ossd-fall-2019/sjku1-weekly/pull/4 | Blog Edit | Fixed run-on sentence |
+|  8   | https://www.openstreetmap.org/changeset/76074439 | OSM Feature | added bench |
