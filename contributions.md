@@ -26,3 +26,4 @@ Replace the first row below with your contribution.
 |  7   | [Wikipedia](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(video_game)) | Wikipedia Edit | edited for clearer wording |
 |  7   | [Classmate Blog](https://github.com/hunter-college-ossd-fall-2019/sjku1-weekly/pull/4) | Blog Edit | Fixed run-on sentence |
 |  8   | [OpenStreetMap](https://www.openstreetmap.org/changeset/76074439) | OSM Feature | added bench |
+| 10   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=M.U.G.E.N&diff=prev&oldid=925103561) | Wikipedia Edit | changed wording |
