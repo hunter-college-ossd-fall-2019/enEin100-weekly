@@ -28,4 +28,4 @@ Replace the first row below with your contribution.
 |  8   | [OpenStreetMap](https://www.openstreetmap.org/changeset/76074439) | OSM Feature | added bench |
 | 11   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=M.U.G.E.N&diff=prev&oldid=925103561) | Wikipedia Edit | changed wording |
 | 11   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N900&diff=prev&oldid=925529356) | Wikipedia Edit | made a word plural |
-
+| 11   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N9&diff=prev&oldid=926695729) | Wikipedia Edit | made a word plural |
