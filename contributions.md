@@ -20,7 +20,7 @@ Replace the first row below with your contribution.
 |  3   | [OpenStreetMap](https://openstreetmap.org/changeset/74738073) | OSM Feature | added bench |
 |  4   | [Classmate Blog](https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/2) | Blog Edit | deleted unnecesary lines |
 |  5   | [Wiktionary](https://en.wiktionary.org/w/index.php?title=pleat&oldid=54313932) | Wiktionary Edit | added pronunciation to word |
-|  5   | [monerobook](https://github.com/monerobook/monerobook/pull/74) | Pull Request Accepted and Merged | spelling, capitalization, and punctuation fixed |
+|  5   | [monerobook](https://github.com/monerobook/monerobook/pull/74) | Pull Request (accepted and merged) | spelling, capitalization, and punctuation fixed |
 |  7   | [OpenStreetMap](https://openstreetmap.org/changeset/75471058) | OSM Feature | added bench |
 |  7   | [OpenStreetMap](https://openstreetmap.org/changeset/75628411) | OSM Feature | added bench |
 |  7   | [Wikipedia](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure_(video_game)) | Wikipedia Edit | edited for clearer wording |
@@ -30,4 +30,4 @@ Replace the first row below with your contribution.
 | 11   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N900&diff=prev&oldid=925529356) | Wikipedia Edit | made a word plural |
 | 12   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N9&diff=prev&oldid=926695729) | Wikipedia Edit | made a word plural |
 | 12   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N800&diff=prev&oldid=926759284) | Wikipedia Edit | added a word |
-|  13  | [monerobook](https://github.com/monerobook/monerobook/pull/79) | Pull Request Accepted and Merged | Punctuation and spelling mistakes fixed |
+|  13  | [monerobook](https://github.com/monerobook/monerobook/pull/79) | Pull Request (accepted and merged) | Punctuation and spelling mistakes fixed |
