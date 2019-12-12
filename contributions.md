@@ -30,3 +30,4 @@ Replace the first row below with your contribution.
 | 11   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N900&diff=prev&oldid=925529356) | Wikipedia Edit | made a word plural |
 | 12   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N9&diff=prev&oldid=926695729) | Wikipedia Edit | made a word plural |
 | 12   | [Wikipedia](https://en.wikipedia.org/w/index.php?title=Nokia_N800&diff=prev&oldid=926759284) | Wikipedia Edit | added a word |
+|  13  | [monerobook](https://github.com/monerobook/monerobook/pull/79) | Pull Request Accepted and Merged | Punctuation and spelling mistakes fixed |
